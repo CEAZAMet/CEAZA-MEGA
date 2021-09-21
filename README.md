@@ -1,5 +1,6 @@
 # Welcome to CEAZA mega!
 A low power consumption, reliable and expandable Arduino-derivative datalogger for scientists
+![alt text](/Images/CM_PINOUT.PNG?raw=true "CEAZA MEGA Board")
 
 
 # What is the CEAZA mega?
