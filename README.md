@@ -1,5 +1,6 @@
 # Welcome to CEAZA mega!
 A low power consumption, reliable and expandable Arduino-derivative datalogger for scientists
+
 ![alt text](/Images/CM_PINOUT.PNG?raw=true "CEAZA MEGA Board")
 
 
@@ -29,7 +30,7 @@ Furthermore, all integrated devices, except the main MCU uses a firmware control
 A comprehensive documentation for well undertand, use or modify the CEAZA MEGA board is available in our Wiki. In adition, we share with you the schematics diagrams, adns Arduino example codes.
 
 ## Quickstart guide
-Plug a 7V to 14V dc power supply in the power terminal and connect CEAZA MEGA main board system to the host PC by mini-USB connector, open the Arduino ide software, select the Arduino Mega board and the correspondign COM port.
+Plug a 6.5V to 14V dc power supply in the power terminal and connect CEAZA MEGA main board system to the host PC by mini-USB connector, open the Arduino ide software, select the Arduino Mega board and the correspondign COM port.
 Open any of examples scketches and upload to the board.
 
 
