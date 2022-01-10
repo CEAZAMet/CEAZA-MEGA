@@ -57,6 +57,7 @@ void loop() {
 float get18B20Temp(void){
   digitalWrite(TEMP_EN_PIN,HIGH); delay(10);  // Turn-on the sensor
   sensors.requestTemperatures();              // Update temperature value
+  float temp_C = sensors.getTempCByIndex(0);
   digitalWrite(TEMP_EN_PIN,LOW);              // Turn off the sensor
-  return sensors.getTempCByIndex(0);
+  return temp_C;
 }
