@@ -41,6 +41,7 @@ For all kinds of inquiries, please contact me to my e-mail address: adrian.galla
 You are welcome to contribute to the development or improvement of CEAZA MEGA hardware design or example application codes. Feel free to submit a new pull request via github.
 
 # Academic Context
+A paper with more detail and tests performed to board was shown in DOI: http://doi.org/10.11591/ijres.v11.i2.pp175-187
 
 # Licensing
 MIT License
