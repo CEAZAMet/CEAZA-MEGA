@@ -1,9 +1,10 @@
 
-# CEAZA Mega
+# CEAZA Mega   [![Badge License]][License]
 
 *A reliable & expandable low power data <br>
 logger for scientists, based on the Arduino.*
 
+<br>
 <br>
 
 <div align = center>
@@ -111,7 +112,9 @@ We do not encourage any malicious use of our board.
 
 <!----------------------------------------------------------------------------->
 
-[Wiki]: 
+[Badge License]: https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
+
 [DOI]: http://doi.org/10.11591/ijres.v11.i2.pp175-187
 
 [Preview]: Images/CM_PINOUT.PNG
+[License]: LICENSE
