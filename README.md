@@ -1,10 +1,25 @@
-# Welcome to CEAZA mega!
-A low power consumption, reliable and expandable Arduino-derivative datalogger for scientists
 
-![alt text](/Images/CM_PINOUT.PNG?raw=true "CEAZA MEGA Board")
+# CEAZA Mega
 
+*A reliable & expandable low power data <br>
+logger for scientists, based on the Arduino.*
 
-# What is the CEAZA mega?
+<br>
+
+<div align = center>
+
+<img
+    src = 'Images/CM_PINOUT.PNG'
+    width = 600
+/>
+
+</div>
+
+<br>
+<br>
+
+## What It Is
+
 Is a new simple, robust and expandable datalogger Arduino derivative board based in typical maker’s community integrations.  The board was designed and implemented taking into account requirements as low consumption, expandability and integration. Different tests where made so reliability in low temperatures and low energy needs are satisfied. 
 Is expected that the scientific community can add this board to their tool set, as this board solves the energy problem and present an easy transition from handmade logger integrations.
 
@@ -23,26 +38,80 @@ CEAZA mega board integrate:
 - an ISCP terminal to program with external programer
 - 3 expansion terminal for direct wires soldering or easy plug/unplug expansion boards for CEAZA MEGA
 
-Furthermore, all integrated devices, except the main MCU uses a firmware controlled switched power supply in order to optimize de power consumption.
+<br>
+
+Furthermore, all integrated devices, except the main **MCU** <br>
+uses a firmware controlled switched power supply in order <br>
+to optimize de power consumption.
 
 
 ## Documentation
-A comprehensive documentation for well undertand, use or modify the CEAZA MEGA board is available in our Wiki. In adition, we share with you the schematics diagrams, adns Arduino example codes.
+
+A comprehensive documentation for well understand, use <br>
+or modify the **CEAZA MEGA** board is available in our Wiki. 
+
+Additionally we share our schematic <br>
+diagrams and Arduino example codes.
+
+<br>
+<br>
 
 ## Quickstart guide
-Plug a 6.5V to 14V dc power supply in the power terminal and connect CEAZA MEGA main board system to the host PC by mini-USB connector, open the Arduino ide software, select the Arduino Mega board and the correspondign COM port.
-Open any of examples scketches and upload to the board.
+
+1.  Connect a `6.5 - 14V` DC power supply.
+
+2.  Connect the **CEAZA MEGA** main board to <br>
+    the host PC with he mini-USB connector.
+
+3.  Open the Arduino IDE.
+
+4.  Select the Arduino Mega board <br>
+    and the corresponding COM port.
+
+5.  Open any of example sketches.
+
+6.  Upload to the board.
+
+<br>
+<br>
+
+## Contact & Support
+
+For all kinds of inquiries, please contact me to <br>
+my e-mail address: adrian.gallardo@ceaza.cl
+
+<br>
+<br>
+
+## Contributing
+
+You are welcome to contribute to the development <br>
+or improvement of **CEAZA MEGA** hardware design <br>
+or example application codes.
+
+Feel free to submit a new pull request via **GitHub**.
+
+<br>
+<br>
+
+## Academic Context
+
+A paper with more details and performed tests was shown in **[DOI]**. 
+
+<br>
+<br>
+
+## Disclaimer
+
+Use **CEAZA MEGA** board and examples code at your own risk. <br>
+We do not encourage any malicious use of our board.
+
+<br>
 
 
-# Contact and support
-For all kinds of inquiries, please contact me to my e-mail address: adrian.gallardo@ceaza.cl
+<!----------------------------------------------------------------------------->
 
-# Contributing
-You are welcome to contribute to the development or improvement of CEAZA MEGA hardware design or example application codes. Feel free to submit a new pull request via github.
+[Wiki]: 
+[DOI]: http://doi.org/10.11591/ijres.v11.i2.pp175-187
 
-# Academic Context
-A paper with more detail and tests performed to board was shown in DOI: http://doi.org/10.11591/ijres.v11.i2.pp175-187
-
-
-# Disclaimer
-Use CEAZA MEGA board and examples code at your own risk. We do not encourage any malicious use of our board.
+[Preview]: Images/CM_PINOUT.PNG
